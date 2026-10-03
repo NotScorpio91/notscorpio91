@@ -15,8 +15,10 @@
 </p>
 
 ---
+<h2 align="center">
+   👨‍💻 About Me
+</h2>
 
-## 👨‍💻 About Me
 
 I'm a **Full-Stack Developer** focused on designing and building reliable, scalable, and user-focused software.
 
